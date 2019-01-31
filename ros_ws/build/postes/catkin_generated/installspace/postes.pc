@@ -1,0 +1,8 @@
+prefix=/home/projn7cellule/PL_2018/ros_ws/install
+
+Name: postes
+Description: Description of postes
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/projn7cellule/PL_2018/ros_ws/install/lib 
+Requires: roscpp message_runtime

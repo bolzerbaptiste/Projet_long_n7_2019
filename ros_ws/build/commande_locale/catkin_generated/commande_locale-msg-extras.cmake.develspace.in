@@ -1,0 +1,2 @@
+set(commande_locale_MESSAGE_FILES "/home/projn7cellule/PL_2018/ros_ws/src/commande_locale/msg/Msg_SensorState.msg;/home/projn7cellule/PL_2018/ros_ws/src/commande_locale/msg/Msg_StopControl.msg;/home/projn7cellule/PL_2018/ros_ws/src/commande_locale/msg/Msg_Color.msg;/home/projn7cellule/PL_2018/ros_ws/src/commande_locale/msg/Msg_SwitchControl.msg;/home/projn7cellule/PL_2018/ros_ws/src/commande_locale/msg/Msg_PinControl.msg")
+set(commande_locale_SERVICE_FILES "")

@@ -1,0 +1,7 @@
+int32 handle
+---
+int32 destination
+int32 handlePlatform
+int32 product
+int32 zone
+string name

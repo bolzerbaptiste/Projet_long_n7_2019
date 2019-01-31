@@ -1,0 +1,311 @@
+
+ Nouveau lancement du programme / date : Tue Jan 29 12:56:22 2019
+
+
+ Nouveau lancement du programme / date : Tue Jan 29 12:59:57 2019
+
+
+ Nouveau lancement du programme / date : Tue Jan 29 13:01:01 2019
+
+Produit A  lance a temps Vrep = 0.550000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.150024 s
+Produit B  lance a temps Vrep = 55.449440 s
+
+ Nouveau lancement du programme / date : Tue Jan 29 13:07:06 2019
+
+
+ Nouveau lancement du programme / date : Tue Jan 29 13:16:52 2019
+
+
+ Nouveau lancement du programme / date : Tue Jan 29 13:17:49 2019
+
+
+ Nouveau lancement du programme / date : Tue Jan 29 14:40:39 2019
+
+Produit A  lance a temps Vrep = 1.300000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 09:24:21 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 09:25:03 2019
+
+Produit A  lance a temps Vrep = 1.400000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.900027 s
+Produit A  lance a temps Vrep = 21.249962 s
+Produit A  lance a temps Vrep = 21.699955 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 09:47:13 2019
+
+Navette vide lance a temps Vrep = 0.550000 s
+Produit A  lance a temps Vrep = 10.650023 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 21.749954 s
+Produit A  lance a temps Vrep = 26.449883 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 09:57:12 2019
+
+Produit A  lance a temps Vrep = 2.049999 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 12.650030 s
+Produit B  lance a temps Vrep = 12.650030 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:07:44 2019
+
+Navette vide lance a temps Vrep = 0.500000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:08:33 2019
+
+Produit A  lance a temps Vrep = 2.249999 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 10:15:14 2019
+
+Produit A  lance a temps Vrep = 0.400000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.000024 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:19:50 2019
+
+Produit A  lance a temps Vrep = 0.450000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.100024 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:23:58 2019
+
+Produit A  lance a temps Vrep = 0.500000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.100024 s
+Navette vide lance a temps Vrep = 19.699986 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:35:34 2019
+
+Produit A  lance a temps Vrep = 2.049999 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 12.700030 s
+Produit B  lance a temps Vrep = 12.750031 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:39:12 2019
+
+Navette vide lance a temps Vrep = 1.050000 s
+Produit A  lance a temps Vrep = 4.750000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 15.800042 s
+Produit A  lance a temps Vrep = 19.649986 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:43:02 2019
+
+Produit A  lance a temps Vrep = 0.550000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.150024 s
+Produit A  lance a temps Vrep = 17.800014 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:47:14 2019
+
+Produit A  lance a temps Vrep = 0.600000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.400025 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:54:47 2019
+
+Navette vide lance a temps Vrep = 0.350000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 10:55:11 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.200025 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 11:09:39 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.000024 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 11:12:37 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 11:13:09 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 15.500041 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 11:18:22 2019
+
+Produit A  lance a temps Vrep = 0.450000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 11:21:59 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 11:24:17 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 11:26:07 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 10.950024 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 11:28:20 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 10.900023 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 12:44:34 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 12:47:05 2019
+
+Navette vide lance a temps Vrep = 0.350000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 12:47:28 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 12:48:16 2019
+
+Produit A  lance a temps Vrep = 0.700000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 11.250025 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 12:50:17 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1Produit  termine a temps Vrep = 10.900023 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 13:13:01 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 13:16:08 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 13:16:22 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 13:17:28 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 13:17:40 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:29:54 2019
+
+Produit A  lance a temps Vrep = 0.750000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:34:10 2019
+
+Produit A  lance a temps Vrep = 0.450000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:37:16 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 14:37:38 2019
+
+
+ Nouveau lancement du programme / date : Wed Jan 30 14:37:50 2019
+
+Produit A  lance a temps Vrep = 0.550000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:48:08 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:51:25 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 14:53:03 2019
+
+Produit A  lance a temps Vrep = 0.850000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 15:11:56 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:03:21 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:10:35 2019
+
+Produit A  lance a temps Vrep = 0.450000 s
+Produit entrain d'être traité au poste 1Produit A  lance a temps Vrep = 0.500000 s
+
+ Nouveau lancement du programme / date : Wed Jan 30 16:14:05 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:16:24 2019
+
+Produit A  lance a temps Vrep = 0.400000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:18:32 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:20:59 2019
+
+Produit A  lance a temps Vrep = 1.250000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 16:43:39 2019
+
+Produit A  lance a temps Vrep = 0.600000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 17:03:56 2019
+
+Produit A  lance a temps Vrep = 1.600000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Wed Jan 30 17:10:06 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:25:29 2019
+
+
+ Nouveau lancement du programme / date : Thu Jan 31 09:26:00 2019
+
+Produit A  lance a temps Vrep = 0.400000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:29:18 2019
+
+Produit A  lance a temps Vrep = 0.900000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:36:11 2019
+
+Produit A  lance a temps Vrep = 0.550000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:39:38 2019
+
+Produit A  lance a temps Vrep = 0.800000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:45:24 2019
+
+Produit A  lance a temps Vrep = 0.400000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:47:25 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:54:44 2019
+
+Produit A  lance a temps Vrep = 0.850000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 09:57:22 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 10:31:53 2019
+
+
+ Nouveau lancement du programme / date : Thu Jan 31 10:32:04 2019
+
+Produit A  lance a temps Vrep = 0.300000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 10:39:27 2019
+
+Produit A  lance a temps Vrep = 0.350000 s
+Produit entrain d'être traité au poste 1
+ Nouveau lancement du programme / date : Thu Jan 31 10:42:20 2019
+
+
+ Nouveau lancement du programme / date : Thu Jan 31 10:42:58 2019
+
+
+ Nouveau lancement du programme / date : Thu Jan 31 10:43:35 2019
+
+Produit A  lance a temps Vrep = 0.400000 s
+
+ Nouveau lancement du programme / date : Thu Jan 31 14:52:34 2019
+
+Produit A  lance a temps Vrep = 1.150000 s
+Produit entrain d'être traité au poste 1

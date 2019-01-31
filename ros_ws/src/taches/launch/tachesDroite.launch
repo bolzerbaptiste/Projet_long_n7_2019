@@ -1,0 +1,8 @@
+<launch>
+
+<node pkg="taches" name="tache5" type="tache5" />
+<node pkg="taches" name="tache6" type="tache6" />
+<node pkg="taches" name="tache7" type="tache7" />
+<node pkg="taches" name="tache8" type="tache8" />
+
+</launch>

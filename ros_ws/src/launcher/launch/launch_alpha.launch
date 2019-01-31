@@ -1,0 +1,9 @@
+<launch>
+
+	<arg name="simFile" default="Simulation" doc="Name of the simulation file"/>
+
+
+	<node name="commande_locale" pkg="commande_locale" type="simulation" output="screen" launch-prefix="xterm -e" args="$(arg simFile)" />
+
+
+</launch>

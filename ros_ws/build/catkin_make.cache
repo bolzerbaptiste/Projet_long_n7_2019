@@ -1,0 +1,2 @@
+aiguillages:automates:commande:commande_locale:communication:launcher:postes:robots:scheduling:shuttles:taches:vrep_common
+-DCATKIN_DEVEL_PREFIX=/home/projn7cellule/PL_2018/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/projn7cellule/PL_2018/ros_ws/install -G Unix Makefiles

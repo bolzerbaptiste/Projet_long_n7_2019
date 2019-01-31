@@ -1,0 +1,30 @@
+<launch>
+
+ 	<node name="commande" pkg="commande" type="run" output="screen" launch-prefix="gnome-terminal --command"/>
+
+	<node name="aiguillage_3" pkg="aiguillages" type="run_A3" output="screen" launch-prefix="xterm -e" /> 
+	<node name="aiguillage_10" pkg="aiguillages" type="run_A10" output="screen" launch-prefix="xterm -e" /> 
+    	<node name="aiguillage_1" pkg="aiguillages" type="run_A1" />
+    	<node name="aiguillage_2" pkg="aiguillages" type="run_A2"/>
+    	<node name="aiguillage_11" pkg="aiguillages" type="run_A11" output="screen" launch-prefix="xterm -e"/>
+    	<node name="aiguillage_12" pkg="aiguillages" type="run_A12" output="screen" launch-prefix="xterm -e"/>
+
+    	<node name="Poste1" pkg="postes" type="run_Poste1" output="screen" launch-prefix="xterm -e"/>
+    	<node name="Poste2" pkg="postes" type="run_Poste2" output="screen" launch-prefix="xterm -e"/> 
+    	<node name="Poste3" pkg="postes" type="run_Poste3" output="screen" launch-prefix="xterm -e"/>
+    	<node name="Poste4" pkg="postes" type="run_Poste4" output="screen" launch-prefix="xterm -e"/>
+
+	<node name="Tache1" pkg="taches" type="tache1" />
+    	<node name="Tache2" pkg="taches" type="tache2" />
+    	<node name="Tache3" pkg="taches" type="tache3" />
+    	<node name="Tache4" pkg="taches" type="tache4" />
+
+	<node name="Robot1" pkg="robots" type="robot1" /> 
+	<node name="Robot2" pkg="robots" type="robot2" /> 
+
+
+    	<node name="shuttleManager" pkg="shuttles" type="shuttlesManager" output="screen" launch-prefix="xterm -e"/>
+    	<node name="scheduler" pkg="scheduling" type="ordonnancement" output="screen" launch-prefix="xterm -e"/>
+
+
+</launch>
